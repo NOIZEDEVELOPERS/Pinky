@@ -22,12 +22,12 @@
             "value": "en"
         },
         "WEL_GIF": {
-            "description": "Fill here any gif link if you selected gif as WELCOME",
+            "description": "Fill here any gif link if you selected gif as WEELCOME",
             "required": false,
             "value": "false"
         },
         "BYE_GIF": {
-            "description": "Fill here any gif link if you selected gif as WELCOME",
+            "description": "Fill here any gif link if you selected gif as WEELCOME",
             "required": false,
             "value": "false"
         },
@@ -54,7 +54,6 @@
         "NUMBER": {
             "description": "give your orginal phone number if you wish to add it in .number cmnd ",
             "required": false
-            "value": "94711502119"
         },
          "BAD_WORDS": {
             "description": "enter the word you dont allow in your group ",
@@ -138,7 +137,7 @@
         "WORK_TYPE": {
             "description": "pinky  Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. and if you use “admin”, only admin can use bot and not all feature (only features needed to maintain a standerd group)",
             "required": true,
-            "value": "public"
+            "value": "private"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
@@ -160,7 +159,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your welcome message",
             "required": false,
-            "value": "i am alive  \n\n ```coded by Tharindu Liyanage ```\n\n```{qt}```"
+            "value": "i am alive  \n\n ```coded by afnan pallikkel```\n\n```{qt}```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",

@@ -152,12 +152,10 @@
         "REMOVE_BG_API_KEY": {
             "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
             "required": false
-            "value": "KuZztPhpu3Ki4w4A7cksCNe6"
         },
         "DEPLOYER": {
             "description": "enter your name here",
             "required": false
-            "value": "zenoinoize"
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your welcome message",

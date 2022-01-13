@@ -1,24 +1,24 @@
 {
-  "name": "Pinky",
+  "name": "Garfield",
   "version": "7.3.6",
-  "description": "Pinky is the Modified Version of WhatsAsena.",
+  "description": "Garfield is the Modified Version of WhatsAsena.",
   "main": "./Pinky_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afnanplk/Pinky_V.git"
+    "url": "git+https://github.com/NOIZEDEVELOPERS/Pinky.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
-    "Pinky",
-    "Afnanplk"
+    "zenoinoize",
+    "NOIZE"
   ],
-  "author": "Afnanplk",
-  "developer": "@afnanplk",
+  "author": "ZENOI",
+  "developer": "@Zenoixnoize",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com//afnanplk/Pinky_V/issues"

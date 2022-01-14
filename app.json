@@ -22,12 +22,12 @@
             "value": "en"
         },
         "WEL_GIF": {
-            "description": "Fill here any gif link if you selected gif as WEELCOME",
+            "description": "Fill here any gif link if you selected gif as WELCOME",
             "required": false,
             "value": "false"
         },
         "BYE_GIF": {
-            "description": "Fill here any gif link if you selected gif as WEELCOME",
+            "description": "Fill here any gif link if you selected gif as WELCOME",
             "required": false,
             "value": "false"
         },
@@ -137,7 +137,7 @@
         "WORK_TYPE": {
             "description": "pinky  Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. and if you use “admin”, only admin can use bot and not all feature (only features needed to maintain a standerd group)",
             "required": true,
-            "value": "Public"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
